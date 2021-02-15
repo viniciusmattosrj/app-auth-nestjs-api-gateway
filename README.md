@@ -15,12 +15,12 @@
 
 ### Sobre
 
-Esse projeto ? base de estudo para melhor compress?o na pr?tica do NestJS usando estrutura de micro servi?os e um api-gateway.
+Esse projeto é base de estudo para melhor compressão na prática do NestJS usando estrutura de micro serviços e um api-gateway.
 
-O projeto foi criado no conceito de mono repo, para facilitar as altera??es.
+O projeto foi criado no conceito de mono repo, para facilitar as alterações.
 
-### D?bitos T?cnicos / Pr?ximos Desafios
+### Débitos Técnicos / Próximos Desafios
 
-- [ ] Adicionar o dotEnv para que as configs n?o fiquem fixas no c?digo
+- [ ] Adicionar o dotEnv para que as configs não fiquem fixas no c?digo
 - [ ] Incluir um docker-compose.example.yml
 - [ ] Implementar testes unit?rios Jest
