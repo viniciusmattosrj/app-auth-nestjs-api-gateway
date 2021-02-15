@@ -1,4 +1,4 @@
-[![pipeline status](https://github.com/viniciusmattosrj/app-auth-nestjs-apigateway/badges/releaseCandidate/pipeline.svg)](https://github.com/viniciusmattosrj/app-auth-nestjs-apigateway/commits/releaseCandidate)
+[![pipeline status](https://github.com/viniciusmattosrj/app-auth-nestjs-api-gateway/badges/releaseCandidate/pipeline.svg)](https://github.com/viniciusmattosrj/app-auth-nestjs-api-gateway/commits/releaseCandidate)
 
 ## Requerimentos
 
